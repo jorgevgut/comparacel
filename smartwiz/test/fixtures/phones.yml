@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  id: 
+  nombre: MyString
+  modelo: MyString
+  precio: 
+  so: MyString
+  camara: MyString
+  camarafrontal: MyString
+  ram: 
+  pantalla: 
+  procesador: 
+  rating: 
+
+two:
+  id: 
+  nombre: MyString
+  modelo: MyString
+  precio: 
+  so: MyString
+  camara: MyString
+  camarafrontal: MyString
+  ram: 
+  pantalla: 
+  procesador: 
+  rating: 
